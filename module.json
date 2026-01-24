@@ -1,0 +1,16 @@
+{
+    "name": "CHNetTRAK",
+    "alias": "chnettrak",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\CHNetTRAK\\Providers\\CHNetTRAKProvider",
+        "Modules\\CHNetTRAK\\Providers\\EventServiceProvider",
+        "Modules\\CHNetTRAK\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
